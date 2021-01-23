@@ -194,7 +194,7 @@ header {
     margin-top: 9rem;
     margin-left: 3rem;
     font-family: 'PT Serif', serif;
-    color: #7B8388;
+    color: rgba(255, 255, 255, 0.1);
     -webkit-text-stroke: 0.1rem rgba(255, 255, 255, 0.5);
 }
 
