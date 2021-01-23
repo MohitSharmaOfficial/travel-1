@@ -41,17 +41,17 @@ img {
     width: 100vw;
     transition: all 5s linear;
     height: calc(180vh);
-    /* background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./Mountains\ 1920\ x\ 1280.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./Mountains\ 1920\ x\ 1280.jpg);
     background-size: 120vw 170vh;
-    background-position: -18rem -4rem; */
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./airplane.jpg);
+    background-position: -18rem -4rem;
+/*     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./airplane.jpg);
     background-size: 120vw 170vh;
-    background-position: -17rem -9rem;
-    /* background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./liberty.jpg);
+    background-position: -17rem -9rem; */
+/*     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./liberty.jpg);
     background-size: 100vw 200vh;
     background-position: 0rem 0rem; */
     /* animation: airmode 100s infinite; */
-    animation: airmode 50s infinite;
+/*     animation: airmode 50s infinite; */
 }
 
 .change {
