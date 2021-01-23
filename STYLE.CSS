@@ -39,7 +39,7 @@ img {
     display: flex;
     flex-direction: column;
     width: 100vw;
-    transition: all 5s linear;
+/*     transition: all 5s linear; */
     height: calc(180vh);
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./Mountains\ 1920\ x\ 1280.jpg);
     background-size: 120vw 170vh;
@@ -54,7 +54,7 @@ img {
 /*     animation: airmode 50s infinite; */
 }
 
-.change {
+/* .change {
     position: absolute;
     font-family: 'Open Sans', sans-serif;
     z-index: 1;
@@ -127,7 +127,7 @@ img {
         background-position: -20rem -9rem;
     }
 }
-
+ */
 header {
     display: inline-flex;
     height: 7vh;
