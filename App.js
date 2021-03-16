@@ -26,6 +26,8 @@ card_section.addEventListener('scroll',()=>{
     card_section.scrollLeft = walk;
 });
 
+This is Demo Text.
+
 
 
 
